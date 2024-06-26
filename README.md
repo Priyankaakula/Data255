@@ -1,4 +1,4 @@
-# DATA225
+# Impact of Charging Stations on EV Sales
 
 ## Project Overview
 The Impact of Charging Stations on EV Sales
